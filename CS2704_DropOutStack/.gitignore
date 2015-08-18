@@ -1,0 +1,9 @@
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+
+*.user
+*.suo
+*.log
+*.sdf
+*.opensdf
